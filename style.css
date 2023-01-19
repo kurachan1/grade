@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-image: url("kurumi.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+  }
+  
+  td, th {
+    border: 1px solid #02DBED;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #8dd3f3;
+  }
